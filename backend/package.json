@@ -1,8 +1,0 @@
-{
-  "type": "module",
-
-  "scripts": {
-    "dev": "bun --watch index.js",
-    "start": "bun index.js"
-  }
-}
